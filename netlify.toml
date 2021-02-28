@@ -8,6 +8,6 @@
   functions = "functions"
 
 [template.environment]
-  STRIPE_PUBLISHABLE_KEY = "Add your Stripe publishable key here: pk_test_xxx"
-  STRIPE_SECRET_KEY = "Add your Stripe secret key here: sk_test_xxx"
-  STRIPE_WEBHOOK_SECRET = "[Optional] Add your webhook secret here: whsec_xxx"
+  STRIPE_PUBLISHABLE_KEY = "pk_test_51IOTaABKXqx5PFiXSNqyYxUvdvc4BZWPTvAkOeObOCBrmQg3Dlg9Jm3pHMqm8fL009QFUgowGMeXpNLQLCqVAyAP008KQgIjzK"
+  STRIPE_SECRET_KEY = "sk_test_51IOTaABKXqx5PFiXwDnc7UIZs44910kloW77LW9dlJfNa4OzcM4sVVG4qGlyiwiHl7CJWnVnqPaBtO1OVqbA06s500iuJ37Rs3"
+  STRIPE_WEBHOOK_SECRET= "whsec_QhH2qV1MS4eFTMNJC1r94tpa01FbdJVE"
